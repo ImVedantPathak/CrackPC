@@ -45,7 +45,7 @@ def smart_string_number_input(prompt="Add your USN to the programs - RVUN25CSE")
         if value.isdigit() and len(value) <= 3:
             return value
         else:
-            print("⚠️ Please enter a numeric value with at most 3 digits (0–999).")
+            print("Please enter a numeric value with at most 3 digits (0–999).")
 
 
 if __name__ == "__main__":  
