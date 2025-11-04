@@ -1,8 +1,3 @@
-#!/bin/bash
-#
-# This script generates all 54 C programs (Program1.c to Program54.c) 
-# by using 'cat' and heredocs. Run this script on your Ubuntu system.
-
 # --- Program 1: Swap Three Variables without Temp ---
 cat > Program1.c << 'EOF_P1'
 #include <stdio.h>
