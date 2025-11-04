@@ -1983,7 +1983,4 @@ int main(int argc, char *argv[])
 }
 EOF_P54
 
-echo "54 C files (Program1.c through Program54.c) created successfully."
-
-# After running this, you can create your zip file with:
-# zip c_programs.zip Program*.c
+echo "54 C files (Program1.c through Program54.c) created."
