@@ -1,4 +1,3 @@
-**ONLY FOR PEOPLE WHO KNOW WHAT THEY ARE DOING:**
 use the command
 ```bash
 chmod +x generate_all_programs.sh
